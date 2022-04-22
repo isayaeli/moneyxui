@@ -252,7 +252,24 @@ h2{
     margin-bottom: -20px;
 }
 .why p{
-    color:white;
+    color:#9c9c9c;
+    margin: 30px 30px 30px 30px;
+    font-size: 15px;
+}
+
+
+.how{
+    background-color: #303030;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.how .number img{
+    margin: 35px 10px 5px 40px;
+}
+
+.how p{
+    color:#9c9c9c;
     margin: 30px 30px 30px 30px;
     font-size: 15px;
 }
