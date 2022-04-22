@@ -8,7 +8,7 @@ html{
 }
 
 @font-face {
-font-family: mylinkFont;
+font-family: mediumfont;
 src: url(Poppins/Poppins-Medium.ttf);
 }
 
@@ -229,4 +229,30 @@ h2{
     color:white;
     border-bottom: 1px solid white;
     text-decoration: none;
+}
+.why{
+    background-color: #303030;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.why .img{
+    margin: 5px 0px;
+}
+
+.texts h4{
+    font-family: mediumfont;
+    color: white;
+    font-weight: 900;
+    margin: 30px;
+    font-size: 22px;
+}
+.texts h4:nth-child(2){
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+.why p{
+    color:white;
+    margin: 30px 30px 30px 30px;
+    font-size: 15px;
 }
