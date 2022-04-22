@@ -205,6 +205,28 @@ hr{
 
 .pair{
     height:  200px;
-    background-color: #313131;
+    background-color: #303030;
     margin-bottom: 30px;
+    border-radius:10px;
+}
+
+.pair h1{
+    color: white;
+    padding: 20px 0px 0px 20px;
+    font-size: 25px;
+    font-family: extrabold;
+}
+
+.pair h1 i{
+    font-weight: 100;
+    margin: 0 10px 0 10px;
+}
+h2{
+    font-family: extrabold;
+    font-size: 35px;
+}
+.more a{
+    color:white;
+    border-bottom: 1px solid white;
+    text-decoration: none;
 }
