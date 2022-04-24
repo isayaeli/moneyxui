@@ -283,7 +283,7 @@ h2{
     left: 0;
 }
 .footer ul{
-    padding: 10px;
+    margin: 10px 0px 10px 180px;
 }
 .socials ul li{
     background-color: white;
@@ -315,4 +315,19 @@ h2{
     bottom: 180px;
     left: 220px;
     font-weight: 900;
+}
+
+.app{
+    align-content: center;
+}
+.app p{
+    text-align: start;
+    color: white;
+    text-indent: 20px;
+}
+.app ol{
+    text-align: start;
+}
+.app ol li{
+    color: white;
 }
